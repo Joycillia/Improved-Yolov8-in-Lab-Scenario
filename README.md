@@ -1,2 +1,2 @@
 # Improved-Yolov8-in-Lab-Scenario
-Three type 
+Three types of improvements on Yolov8
